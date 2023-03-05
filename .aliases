@@ -3,7 +3,7 @@
 #ADD ALIASES USING THE FILE
 #Download .aliases file to ~
 #Add this to end of ~/.zshrc to refer to the list of aliases
-source ~/.aliases
+##source ~/.aliases
 
 
 
